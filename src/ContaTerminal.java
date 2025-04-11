@@ -22,7 +22,7 @@ public class ContaTerminal {
                           ", sua agencia é " + agenciaCliente + ", seu numero da conta " + numeroConta +
                           " e seu saldo " + saldo + " ja esta disponivel para saque");
 
-        System.out.println("\nAgradecemos pela preferencia .");
+        System.out.println("\nAgradecemos pela preferencia.");
 
     }
 
